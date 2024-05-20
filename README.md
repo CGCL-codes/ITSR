@@ -1,5 +1,5 @@
 # ITSR
-An implementation for the paper--Orthogonality Matters: Invariant Time Series Representation for Out-of-distribution Classification.
+An implementation of the SIGKDD 2024 paper--Orthogonality Matters: Invariant Time Series Representation for Out-of-distribution Classification.
 
 ### Dataset
 
